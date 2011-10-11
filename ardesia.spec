@@ -17,6 +17,7 @@ BuildRequires:	libgtk+2.0-devel
 BuildRequires:	intltool
 
 Requires:	vlc
+Requires:	desktop-file-utils
 
 %description
 Ardesia is the free digital sketchpad software that help you to make colored 
