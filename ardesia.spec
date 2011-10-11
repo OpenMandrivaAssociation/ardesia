@@ -15,6 +15,7 @@ BuildRequires:	binutils-devel
 BuildRequires:	gsl-devel
 BuildRequires:	libgtk+2.0-devel
 BuildRequires:	intltool
+BuildRequires:	desktop-file-utils
 
 Requires:	vlc
 Requires:	desktop-file-utils
