@@ -1,7 +1,7 @@
 Name:		ardesia
 Summary:	A free digital sketchpad software
 Version:	1.0 
-Release:	%mkrel 1
+Release:	%mkrel 2
 Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
 URL:		http://code.google.com/p/ardesia/
 
