@@ -18,6 +18,8 @@ BuildRequires:	intltool
 BuildRequires:	desktop-file-utils
 
 Requires:	vlc
+Requires:	curtain
+Requires:	spotlighter
 Requires:	desktop-file-utils
 
 %description
