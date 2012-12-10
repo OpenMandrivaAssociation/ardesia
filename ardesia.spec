@@ -63,3 +63,17 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/%{name}/ui/*.xml
 %{_datadir}/icons/%name.png
 %{_mandir}/man1/%name.*
+
+
+%changelog
+* Wed Oct 26 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.0-2
++ Revision: 707264
+- forgotten mkrel version fix
+- added spotlighter and curtain depends
+
+* Tue Oct 11 2011 Alexander Barakin <abarakin@mandriva.org> 1.0-1
++ Revision: 704260
+- add desktop-file-utils buildreq.
+- add desktop-file-utils req.
+- imported package ardesia
+
