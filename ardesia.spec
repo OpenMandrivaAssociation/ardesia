@@ -1,19 +1,19 @@
 Name:		ardesia
 Summary:	A free digital sketchpad software
 Version:	1.0 
-Release:	%mkrel 2
+Release:	3
 Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
 URL:		http://code.google.com/p/ardesia/
 
 Group:		Education
 License:	GPLv3 
 
-BuildRequires:	libgsf-devel
+BuildRequires:	pkgconfig(libgsf-1)
 BuildRequires:	libsigsegv-devel 
 BuildRequires:	vlc-devel
 BuildRequires:	binutils-devel
 BuildRequires:	gsl-devel
-BuildRequires:	libgtk+2.0-devel
+BuildRequires:	gtk+2.0-devel
 BuildRequires:	intltool
 BuildRequires:	desktop-file-utils
 
