@@ -13,7 +13,7 @@ BuildRequires:	libsigsegv-devel
 BuildRequires:	vlc-devel
 BuildRequires:	binutils-devel
 BuildRequires:	gsl-devel
-BuildRequires:	gtk+2.0-devel
+BuildRequires:	gtk2-devel
 BuildRequires:	intltool
 BuildRequires:	desktop-file-utils
 
