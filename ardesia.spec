@@ -5,7 +5,7 @@ Summary:        A free digital sketchpad software
 Version:        1.2 
 Release:        0.%{svn_ver}.1
 Source0:        http://ardesia.googlecode.com/files/%{name}-%{version}-%{svn_ver}.tar.gz
-URL:            http://code.google.com/p/ardesia
+URL:            https://code.google.com/p/ardesia
 Group:          Education
 License:        GPLv3 
 
