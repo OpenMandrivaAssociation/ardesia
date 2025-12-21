@@ -10,6 +10,11 @@ Group:          Education
 License:        GPLv3 
 
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  pkgconfig(librsvg-2.0)
 BuildRequires:  libsigsegv-devel 
 BuildRequires:	pkgconfig(libgsf-1)
